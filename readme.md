@@ -2,7 +2,7 @@
 This repository contains data, analytic code, and findings on New York City's votes for the five statewide ballot measures
 
 ## Data
-This analysis uses a spreadsheet containing scraped unofficial 2021 election data from the New York City Board of Elections
+This analysis uses a spreadsheet containing scraped unofficial 2021 election data from the New York City Board of Elections. The dataset is too large to be uploaded to Github, but can be downloaded here: https://docs.google.com/spreadsheets/d/1Ireuox4h_NZdnqkqCgadv0kFhhy5I2MKu_vJeLBiHK8/edit?usp=sharing.
 
 The spreadsheets contain the following columns relevant to this analysis
 
